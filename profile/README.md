@@ -1,5 +1,5 @@
 # Arkane Linux
-Arkane Linux is an opinionated, immutable, atomic, multi-root Arch-based distibution which aims to provide a GNOME-centered experienced with minimal yet full featured and sensible non-intrusive defaults.
+Arkane Linux is an opinionated, immutable, atomic, Arch-based distibution which aims to provide a GNOME-centered experienced with minimal yet full featured and sensible non-intrusive defaults.
 
 Arkane Linux primarily serves as a reference implementation, development environment and my personal configuration of the [Arkdep](https://github.com/arkanelinux/arkdep) immutable system management toolkit.
 
