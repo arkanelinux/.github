@@ -6,7 +6,5 @@ Arkane Linux primarily serves as a reference implementation, development environ
 ## Links
 - [Github](https://github.com/arkanelinux) - Primary Git repositories
 - [Codeberg](https://codeberg.org/arkanelinux) - Secondary Git repositories
-- [Download](https://arkanelinux.org/downloads) - Download your Arkane Linux ISO images here
 - [Documentation](https://docs.arkanelinux.org/) - How to use Arkdep and a technical overview of Arkane Linux
-- [Arkane repo](https://repo.arkanelinux.org/) - Pacman package and Arkdep image repositories
 - [Matrix channel](https://matrix.to/#/%23arkanelinux:matrix.org) - The easiest way to have a quick chat or get support
