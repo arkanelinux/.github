@@ -6,5 +6,6 @@ Arkane Linux primarily serves as a reference implementation, development environ
 ## Links
 - [Github](https://github.com/arkanelinux) - Primary Git repositories
 - [Codeberg](https://codeberg.org/arkanelinux) - Secondary Git repositories
+- [Arkane Linux Forgejo](https://git.arkanelinux.org/arkanelinux) - In-house Git repository mirrors
 - [Documentation](https://docs.arkanelinux.org/) - How to use Arkdep and a technical overview of Arkane Linux
 - [Matrix channel](https://matrix.to/#/%23arkanelinux:matrix.org) - The easiest way to have a quick chat or get support
